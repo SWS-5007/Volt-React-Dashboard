@@ -246,10 +246,6 @@ We use GitHub Issues as the official bug tracker for Volt React Dashboard. Here 
 
 If you have questions or need help integrating the product please [contact us](https://themesberg.com/contact) instead of opening an issue.
 
-## Licensing
-
-- Copyright 2021 Themesberg (Crafty Dwarf LLC) (https://themesberg.com)
-- Themesberg [license](https://themesberg.com/licensing#mit) (MIT License)
 
 ## Useful Links
 
